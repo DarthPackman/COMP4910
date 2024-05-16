@@ -5,12 +5,10 @@ pubDate: 2024-05-14
 author: 'DarthPackman'
 description: 'This is the first post of my new Astro blog.'
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    url: 'https://astro.build/assets/press/astro-logo-dark.svg'
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-
-Published on: 2024-05-12
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
