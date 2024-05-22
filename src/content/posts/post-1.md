@@ -1,24 +1,24 @@
 ---
-title: 'My First Blog Post'
-pubDate: 2024-05-14
+title: 'CobraCatalog'
+pubDate: 2021-10-08
 author: 'DarthPackman'
-description: 'This is the first post of my new Astro blog.'
+description: 'This was my final project for Web 1 where I made a Catalog for Cobramode minis.'
 image:
-    url: 'https://astro.build/assets/press/astro-logo-dark.svg'
-    alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
+tags: ["Class Project", "Webdesign", "CSS", "HTML", "Javascript"]
 ---
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+For COMP 2680 Web Site Design & Development, I created a fairly basic website that could be used to show off the full range of Cobramode Minis.
 
-## What I've accomplished
+## What I Did
 
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
+1. **Created Several Templates**: Since this was a Catalog I created several template pages for each months release and a template for each item with an additional one for niche cases.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
+2. **Collected Cobramode Information**: I then went and collected all the images & text I would need to create the website.
 
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
+3. **Load Template With Collected Information**: This is my first blog post! I now have Astro pages and Markdown posts!
 
-## What's next
+## Final Result
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+You can view the results here, and the repository here. Just try to keep in mind I havent updated it since I handed it in.
