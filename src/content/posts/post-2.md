@@ -17,4 +17,4 @@ For the Global Game Jam my team and I created a very basic platformer called clo
 
 ## Final Result
 
-You can view the game <a href="https://darthpackman.itch.io/cloudy">here</a>
+You can view the game <a href="https://darthpackman.itch.io/cloudy" target="_blank">here.</a>

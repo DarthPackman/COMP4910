@@ -21,4 +21,4 @@ For COMP 2160 I took the traditional theatre game Handshake Murder and created a
 
 ## Final Result
 
-You can view the repository <a href="https://darthpackman.itch.io/cloudy">here</a>
+You can view the repository <a href="https://github.com/DarthPackman/Handshake-Murder" target="_blank">here.</a>
