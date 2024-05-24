@@ -4,7 +4,7 @@ pubDate: 2022-03-30
 author: DarthPackman
 description: "My final project for Android 1, I created a Android version of a classic theatre game."
 image:
-    url: 'https://media.discordapp.net/attachments/463598789102403604/1242972933350232175/Handshakemurder.jpg?ex=664fc840&is=664e76c0&hm=3e248d88bfc1e323e387957b4ed134f7e8e290c2ccf7aa092579272c33e4231e&=&format=webp&width=671&height=671'
+    url: 'https://i.imgur.com/kULls5Z.jpeg'
     alt: 'Handshake logo.'
 tags: ["Class Project", "Android", "Java", "Game Design"]
 ---
