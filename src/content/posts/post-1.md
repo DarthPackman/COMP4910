@@ -21,4 +21,4 @@ For COMP 2680 Web Site Design & Development, I created a fairly basic website th
 
 ## Final Result
 
-You can view the results here, and the repository <a href="https://github.com/DarthPackman/CobraCatalog" target="_blank">here.</a>. Just try to keep in mind I havent updated it since I handed it in.
+You can view the repository <a href="https://github.com/DarthPackman/CobraCatalog" target="_blank">here.</a>.
