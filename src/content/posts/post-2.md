@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: 'Cloudy'
 pubDate: 2022-01-28
 author: 'DarthPackman'
@@ -7,16 +8,24 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
 tags: ["Game Jam", "Platformer", "Unity"]
+=======
+title: Cloudy
+pubDate: 2022-02-04
+author: DarthPackman
+description: "First attempt at Game Development for the Global Game Jam."
+image:
+    url: 'https://img.itch.zone/aW1nLzgwNjQ0MDEuanBn/original/qSUE8z.jpg'
+    alt: 'Cloudy Logo.'
+tags: ["Game Jam", "Bolt", "Game Design"]
+>>>>>>> parent of f58a941 (Portfolio)
 ---
 
-**Cloudy** was developed during the Global Game Jam in Winter 2022. It features a scientist chasing a malfunctioning weather AI through stormy skies and serene clouds.
+For the Global Game Jam my team and I created a very basic platformer called cloudy where when you switch modes the cloud float different directions.
 
 ## What I Did
 
-1. Designed levels with alternating weather mechanics.
-2. Implemented weather-based platforming mechanics in Unity.
-3. Created engaging environments using storm and calm weather effects.
+1. **Created Game in Visual Code - Bolt**: Since we were just learning we created this game using Unity Bolt.
 
 ## Final Result
 
-You can view the game on [Itch.io](https://darthpackman.itch.io/cloudy).
+You can view the game <a href="https://darthpackman.itch.io/cloudy" target="_blank">here.</a>

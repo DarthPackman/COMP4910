@@ -8,22 +8,19 @@ const identity = {
   handle: "DarthPackman",
   country: "Canada",
   occupation: "Student & Service Desk Analyst",
-  employer: "BCLC",
   hobbies: 
   ["Video Games", 
   "Board Games", 
   "War Games", 
   "Trading Card Games", 
-  "Tabletop Roleplaying Games",
-  "Live Streaming"]
+  "Tabletop Roleplaying Games"],
+  
 };
 const skills = 
 ["HTML", 
 "CSS", 
 "JavaScript", 
 "C#", 
-"C++",
-"Java",
 "Python",
 "Astro", 
 "C",
@@ -31,6 +28,7 @@ const skills =
 ---
 
 <BaseLayout pageTitle={pageTitle}>
+<<<<<<< HEAD
     <h2>Gavin Edwards</h2>
     <p>My name is {identity.firstName}.</p>
     <p>I live in {identity.country} and I work as a {identity.occupation} at {identity.employer}.</p>
@@ -42,6 +40,18 @@ const skills =
         <li>{identity.hobbies[3]}</li>
         <li>{identity.hobbies[4]}</li>
         <li>{identity.hobbies[5]}</li>
+=======
+    <h2>And my new Astro Site!</h2>
+    <p>Currently working through the astro tutorial for a blog site.</p>
+    <p>Its connected to Github and Netlify so it updates automatically.</p>
+    <p>Here are a few facts about me:</p>
+    <ul>
+        <li>My name is {identity.firstName}.</li>
+        <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+        {identity.hobbies.length >= 2 &&
+            <li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
+        }
+>>>>>>> parent of f58a941 (Portfolio)
     </ul>
     <ul>
         <p>My skills are:</p>

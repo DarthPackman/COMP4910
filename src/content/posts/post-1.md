@@ -13,12 +13,12 @@ For COMP 2680 Web Site Design & Development, I created a fairly basic website th
 
 ## What I Did
 
-1. **Created Several Templates**: Since this was a Catalog I created several template pages for each month's release and a template for each item with an additional one for niche cases.
+1. **Created Several Templates**: Since this was a Catalog I created several template pages for each months release and a template for each item with an additional one for niche cases.
 
 2. **Collected Cobramode Information**: I then went and collected all the images & text I would need to create the website.
 
-3. **Load Template With Collected Information**: I used the templates to create pages for the collected Cobramode miniatures.
+3. **Load Template With Collected Information**: This is my first blog post! I now have Astro pages and Markdown posts!
 
 ## Final Result
 
-You can view the repository [here](https://github.com/DarthPackman/CobraCatalog).
+You can view the repository <a href="https://github.com/DarthPackman/CobraCatalog" target="_blank">here.</a>.
