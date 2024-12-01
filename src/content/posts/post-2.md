@@ -1,20 +1,19 @@
 ---
-title: Cloudy
-pubDate: 2022-02-04
-author: DarthPackman
-description: "First attempt at Game Development for the Global Game Jam."
-image:
-    url: 'https://img.itch.zone/aW1nLzgwNjQ0MDEuanBn/original/qSUE8z.jpg'
-    alt: 'Cloudy Logo.'
-tags: ["Game Jam", "Bolt", "Game Design"]
+title: 'Cloudy'
+pubDate: 2022-01-28
+author: 'DarthPackman'
+description: 'A weather-themed platformer created for the Global Game Jam 2022.'
+tags: ["Game Jam", "Platformer", "Unity"]
 ---
 
-For the Global Game Jam my team and I created a very basic platformer called cloudy where when you switch modes the cloud float different directions.
+**Cloudy** was developed during the Global Game Jam in Winter 2022. It features a scientist chasing a malfunctioning weather AI through stormy skies and serene clouds.
 
 ## What I Did
 
-1. **Created Game in Visual Code - Bolt**: Since we were just learning we created this game using Unity Bolt.
+1. Designed levels with alternating weather mechanics.
+2. Implemented weather-based platforming mechanics in Unity.
+3. Created engaging environments using storm and calm weather effects.
 
 ## Final Result
 
-You can view the game <a href="https://darthpackman.itch.io/cloudy" target="_blank">here.</a>
+You can view the game on [Itch.io](https://darthpackman.itch.io/cloudy).
