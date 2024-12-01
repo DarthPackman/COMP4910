@@ -6,7 +6,7 @@ description: 'A multiplayer IoT game featuring mini-games that require coordinat
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "IoT", "Arduino MKR IoT Carrier", "Game Design"]
+tags: ["Class Project", "IoT", "Arduino", "Game Design"]
 ---
 
 For COMP 4980, I created a multiplayer IoT game featuring mini-games inspired by **Keep Talking & Nobody Explodes**.

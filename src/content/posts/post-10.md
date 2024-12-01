@@ -6,7 +6,7 @@ description: 'A simulation project for managing water levels and infrastructure 
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Simulation", "Software Architecture", "Unity"]
+tags: ["Class Project", "Software Architecture"]
 ---
 
 **Rising Tide** is a simulation game that challenges players to manage water levels and adapt infrastructure to environmental changes.

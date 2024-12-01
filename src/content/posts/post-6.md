@@ -6,7 +6,7 @@ description: 'A dungeon-crawling game built with procedural content generation t
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Procedural Content Generation", "Unity", "Game Design"]
+tags: ["Class Project", "Procedural Content Generation", "Unity", "Game Design", "C#"]
 ---
 
 **Dungeoneer** is a dungeon-crawling adventure where players explore procedurally generated levels filled with enemies and loot.

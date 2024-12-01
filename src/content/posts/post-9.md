@@ -6,7 +6,7 @@ description: 'A narrative-driven platformer exploring themes of loss and recover
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Platformer", "Unity", "Narrative Design"]
+tags: ["Class Project", "FPS", "Unity", "C#", "Game Design"]
 ---
 
 **Torn Threads** is a narrative-driven platformer that combines emotional storytelling with challenging platforming.

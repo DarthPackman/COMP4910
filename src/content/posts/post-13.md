@@ -6,7 +6,7 @@ description: 'A text-based auto-battler game developed with object-oriented prin
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "OOP", "Game Development"]
+tags: ["Class Project", "C++", "Game Development"]
 ---
 
 **Text Trails** is a text-based auto-battler game where players strategize and compete in a battle of wits.

@@ -6,7 +6,7 @@ description: 'A game jam project where players cleanse a fae-infested world as a
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Game Jam", "2.5D", "Action-Adventure", "Unity"]
+tags: ["Game Jam", "C#", "Action-Adventure", "Unity"]
 ---
 
 **InFaeStation** is a 2.5D action-adventure game where players battle fae creatures to save their dying forest.

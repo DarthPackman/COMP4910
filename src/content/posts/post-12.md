@@ -6,7 +6,7 @@ description: 'A project exploring data privacy and ethical dilemmas in computing
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Web Development", "React", "Ethics"]
+tags: ["Class Project", "Web Development", "Astro", "HTMl", "CSS", "Javascript"]
 ---
 
 **Crisis of Transparency** is an interactive web project that explores data privacy, ethical dilemmas, and transparency in computing.

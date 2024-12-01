@@ -6,7 +6,7 @@ description: 'An advanced web application for collecting and sharing information
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Web Development", "React", "Firebase"]
+tags: ["Class Project", "Firebase", "Webdesign", "CSS", "HTML", "Javascript", "PHP"]
 ---
 
 **The Tea** is a React-based web application where users can collect, share, and comment on trending topics.

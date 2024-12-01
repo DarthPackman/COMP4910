@@ -6,7 +6,7 @@ description: 'A stealth-based mobile game for COMP 3160.'
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
-tags: ["Class Project", "Mobile Development", "Game Design"]
+tags: ["Class Project", "Mobile Development", "Game Design", "Kotlin", "Android Studio"]
 ---
 
 **Manhunt** is a stealth-focused game where players avoid detection while completing objectives.
