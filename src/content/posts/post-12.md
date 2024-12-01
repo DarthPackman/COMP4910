@@ -3,6 +3,9 @@ title: 'Crisis of Transparency'
 pubDate: 2024-07-15
 author: 'DarthPackman'
 description: 'A project exploring data privacy and ethical dilemmas in computing.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Web Development", "React", "Ethics"]
 ---
 

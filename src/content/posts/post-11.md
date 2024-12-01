@@ -3,6 +3,9 @@ title: 'The Tea'
 pubDate: 2023-03-10
 author: 'DarthPackman'
 description: 'An advanced web application for collecting and sharing information on topics of interest.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Web Development", "React", "Firebase"]
 ---
 

@@ -3,6 +3,9 @@ title: 'Behavioral Authentication & Anomaly Detection System'
 pubDate: 2024-11-20
 author: 'DarthPackman'
 description: 'A security-focused project utilizing behavioral biometrics for authentication.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Network Security", "Web Development", "Firebase"]
 ---
 

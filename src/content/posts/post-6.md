@@ -1,24 +1,22 @@
 ---
-title: Roll For Dungeon
-pubDate: 2022-10-30
-author: DarthPackman
-description: "My final project for Android 2, I created a technological version of Hunter/Manhunt."
+title: 'Dungeoneer'
+pubDate: 2023-10-15
+author: 'DarthPackman'
+description: 'A dungeon-crawling game built with procedural content generation techniques.'
 image:
-    url: 'https://i.imgur.com/Dm2LV6A.png'
-    alt: 'Manhunt logo.'
-tags: ["Class Project", "Android", "Java", "Game Design"]
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
+tags: ["Class Project", "Procedural Content Generation", "Unity", "Game Design"]
 ---
 
-For COMP 3160 I took the playground game Hunter and created a version that uses your phone GPS & The Google Maps API to be able to play over larger areas..
+**Dungeoneer** is a dungeon-crawling adventure where players explore procedurally generated levels filled with enemies and loot.
 
 ## What I Did
 
-1. **Created Non-Gameplay Scenes**: Created the landing scene, host scene, join scene, as well as the lobby scene.
-
-2. **Created the Gamplay Scenes**: I created the starting scene, the taf scene, as well as the core gameplay scene.
-
-3. **Created a Firebase**: Linked the whole Application to a temporary set up of a Firebase for the lobbies.
+1. Implemented procedural level generation in Unity.
+2. Designed engaging gameplay mechanics and combat systems.
+3. Created visual assets and animations to enhance the experience.
 
 ## Final Result
 
-You can view the repository <a href="https://github.com/DarthPackman/Manhunt" target="_blank">here.</a>
+You can play the game on [Itch.io](https://darthpackman.itch.io/dungeoneer).

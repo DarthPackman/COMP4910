@@ -3,6 +3,9 @@ title: 'Rising Tide'
 pubDate: 2023-11-15
 author: 'DarthPackman'
 description: 'A simulation project for managing water levels and infrastructure in a changing climate.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Simulation", "Software Architecture", "Unity"]
 ---
 

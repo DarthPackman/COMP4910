@@ -3,6 +3,9 @@ title: 'IoT Sensor Game'
 pubDate: 2024-10-20
 author: 'DarthPackman'
 description: 'A multiplayer IoT game featuring mini-games that require coordination and quick thinking.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "IoT", "Arduino MKR IoT Carrier", "Game Design"]
 ---
 

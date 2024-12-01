@@ -3,6 +3,9 @@ title: 'Roll For Dungeon'
 pubDate: 2023-10-10
 author: 'DarthPackman'
 description: 'A procedural content generation project for dungeon crawling.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Procedural Content Generation", "Game Design"]
 ---
 

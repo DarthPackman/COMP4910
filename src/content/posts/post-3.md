@@ -3,6 +3,9 @@ title: 'Handshake Murder'
 pubDate: 2022-03-15
 author: 'DarthPackman'
 description: 'A mobile app game that involves strategic handshakes.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Class Project", "Mobile Development", "Android Studio"]
 ---
 

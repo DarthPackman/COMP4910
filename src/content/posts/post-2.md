@@ -3,6 +3,9 @@ title: 'Cloudy'
 pubDate: 2022-01-28
 author: 'DarthPackman'
 description: 'A weather-themed platformer created for the Global Game Jam 2022.'
+image:
+    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
+    alt: 'Cobramode logo.'
 tags: ["Game Jam", "Platformer", "Unity"]
 ---
 
