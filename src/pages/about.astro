@@ -34,8 +34,8 @@ const skills =
     <h2>Gavin Edwards</h2>
     <p>My name is {identity.firstName}.</p>
     <p>I live in {identity.country} and I work as a {identity.occupation} at {identity.employer}.</p>
-    <p>My interests include:</p>
     <ul>
+        <p>My interests include:</p>
         <li>{identity.hobbies[0]}</li>
         <li>{identity.hobbies[1]}</li>
         <li>{identity.hobbies[2]}</li>
@@ -43,8 +43,8 @@ const skills =
         <li>{identity.hobbies[4]}</li>
         <li>{identity.hobbies[5]}</li>
     </ul>
-    <p>My skills are:</p>
     <ul>
+        <p>My skills are:</p>
         {skills.map((skill) => <li class="skill">{skill}</li>)}
     </ul>
 </BaseLayout>
