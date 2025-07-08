@@ -4,8 +4,8 @@ pubDate: 2022-11-20
 author: 'DarthPackman'
 description: 'A stealth-based mobile game for COMP 3160.'
 image:
-    url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
-    alt: 'Cobramode logo.'
+    url: 'https://github.com/DarthPackman/Handshake-Murder/blob/main/manhubnt.png'
+    alt: 'Manhunt Gameplay'
 tags: ["Class Project", "Mobile Development", "Game Design", "Kotlin", "Android Studio"]
 ---
 
