@@ -3,6 +3,9 @@ title: 'Handshake Murder'
 pubDate: 2022-03-15
 author: 'DarthPackman'
 description: 'A mobile app game that involves strategic handshakes.'
+image:
+    url: 'https://img.itch.zone/aW1nLzgwNjQ0MDEuanBn/original/qSUE8z.jpg'
+    alt: 'Cloudy Poster.'
 tags: ["Class Project", "Mobile Development", "Android Studio", "Java", "Game Design"]
 ---
 
