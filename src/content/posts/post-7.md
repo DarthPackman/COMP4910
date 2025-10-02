@@ -6,7 +6,7 @@ description: 'A cooperative IoT game system, developed for COMP 4980, inspired b
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for Arduino MKR IoT Carrier project.'
-tags: ["Class Project", "IoT", "Arduino", "C/C++ (Sketch)", "Arduino Cloud", "Hardware Integration", "Cooperative Game"]
+tags: ["Class Project", "IoT", "Arduino", "C++", "Arduino Cloud", "Hardware Integration", "Cooperative Game"]
 video_url: ''
 ---
 

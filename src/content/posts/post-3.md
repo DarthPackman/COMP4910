@@ -6,7 +6,7 @@ description: 'A unique mobile app game, developed for COMP 2160, centered on ide
 image:
     url: 'https://img.itch.zone/aW1nLzgwNjQ0MDEuanBn/original/qSUE8z.jpg'
     alt: 'Handshake Murder concept art or screenshot.'
-tags: ["Class Project", "Mobile Development", "Android Studio", "Java", "Firebase", "Prototyping", "UI/UX"]
+tags: ["Class Project", "Mobile Development", "Android Studio", "Java", "Firebase", "Prototyping", "UIUX"]
 video_url: ''
 ---
 

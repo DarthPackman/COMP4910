@@ -6,7 +6,7 @@ description: 'A First-Person Shooter (FPS) prototype developed for COMP 1810 tha
 image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for Torn Threads.'
-tags: ["Class Project", "FPS", "Unity", "C#", "Prototyping", "Physics-Based Traversal", "Mini-Game Design"]
+tags: ["Class Project", "FPS", "Unity", "C#", "Prototyping", "Physics Based Traversal", "Mini-Game Design"]
 video_url: ''
 ---
 
