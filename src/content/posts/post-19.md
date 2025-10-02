@@ -7,7 +7,6 @@ image:
     url: 'https://darthpackman.itch.io/dokidokidragoons'
     alt: 'Doki Doki Dragoons gameplay screenshot showing the Dragoon character and various weapon effects.'
 tags: ["Game Jam", "Unity", "C#", "Auto-Battler", "Chain Reaction", "Game Design", "Progression System"]
-video_url: ''
 ---
 
 [cite_start]**Doki Doki Dragoons** was an ambitious survival auto-battler created for the **Dokibird Game Jam**, directly addressing the theme **"Chain Reaction."** Inspired by *Vampire Survivors*, the project focuses on an elaborate **chaining status effects system** where the player's 16 available weapons work together to create cascading combat loops, requiring strategic weapon selection to successfully survive a 15-minute challenge[cite: 17, 1].

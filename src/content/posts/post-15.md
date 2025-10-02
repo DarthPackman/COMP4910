@@ -7,7 +7,6 @@ image:
     url: 'https://darthpackman.github.io/Leaderboarded/index.html'
     alt: 'Leaderboarded homepage mockup showing game review tiles.'
 tags: ["Class Project", "HCI", "UX Design", "Usability Testing", "React", "Firebase", "Social Networking"]
-video_url: ''
 ---
 
 [cite_start]**Leaderboarded** was a capstone project for **COMP 3450 (Human-Computer Interaction Design)**, aimed at creating a **Letterboxd-style platform for video games**[cite: 2305, 5207]. [cite_start]The primary goal was to solve the lack of meaningful user-driven reviews by combining detailed, aspect-specific ratings (Gameplay, Story, Graphics) with social networking features[cite: 256, 257, 5212].

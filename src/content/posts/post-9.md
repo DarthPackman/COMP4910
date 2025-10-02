@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for Torn Threads.'
 tags: ["Class Project", "FPS", "Unity", "C#", "Prototyping", "Physics Based Traversal", "Mini-Game Design"]
-video_url: ''
 ---
 
 **Torn Threads** evolved from a narrative concept into a focused technical showcase for **COMP 1810 (Game Design & Development 1)**. The final prototype effectively demonstrated the implementation of core **First-Person Shooter (FPS)** systems and advanced player movement mechanics across three distinct technical environments.

@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for Crisis of Transparency.'
 tags: ["Class Project", "Web Development", "Astro", "React", "Parallax Scrolling", "Content-Driven", "Responsive Design"]
-video_url: ''
 ---
 
 **Crisis Of Transparency** was a major Computing Science capstone project (COMP 4910) commissioned by the TRU Faculty of Law. The primary goal was to create a modern, interactive, and highly engaging web platform to report on the systemic failures of Canada's **Access to Information** laws, targeting key recommendations for reform.

@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'The Tea logo, showing a stylized pink teacup.'
 tags: ["Class Project", "PHP", "MySQL", "Web Development", "Database Integration", "Location Services", "CRUD Operations"]
-video_url: ''
 ---
 
 **The Tea** was the term project for **COMP 3540 (Adv Web Design & Programming)**, a functional web forum designed to allow users to **anonymously** create, interact with, and view posts. The system was built from the ground up, demanding robust server-side scripting and secure database management to handle user accounts and content.

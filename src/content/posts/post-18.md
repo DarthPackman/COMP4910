@@ -7,7 +7,6 @@ image:
     url: 'https://darthpackman.itch.io/artfight2025'
     alt: 'Artfight 2025 gameplay screenshot showing a pixel art character running in a cave environment.'
 tags: ["Personal Project", "Godot", "GDScript", "Infinite Runner", "Procedural Generation", "Pixel Art", "Asset Pipeline"]
-video_url: ''
 ---
 
 **Artfight 2025** was a highly creative, month-long solo development project, built using the **Godot Engine** and **GDScript**. The goal was to continuously create and integrate pixel art characters submitted by other players during the Artfight event, turning the game into a dynamic, community-driven portfolio piece.

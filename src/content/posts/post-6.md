@@ -7,7 +7,6 @@ image:
     url: 'https://darthpackman.itch.io/dungeoneer'
     alt: 'Dungeoneer title screen showing a character with a torch.'
 tags: ["Class Project", "Procedural Generation", "Unity", "C#", "Game Development", "Runtime Generation", "Modular Design"]
-video_url: '' 
 ---
 
 [cite_start]**Dungeoneer** was a multi-faceted group project for **COMP 4980 (Procedural Content Generation)** that shifted from a walking simulator to a **3rd-person Z-Targeting Dungeon Crawler**[cite: 3007]. [cite_start]This project was a deep dive into **seed-based, adaptive PCG** [cite: 2882, 2886][cite_start], where core game elements—from the terrain mesh to individual enemy attributes—are generated *at runtime* based on a central world seed[cite: 3035].

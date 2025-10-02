@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
 tags: ["Class Project", "Network Security", "Behavioral Biometrics", "Anomaly Detection", "Web Development", "JavaScript", "Firebase"]
-video_url: ''
 ---
 
 [cite_start]This project, developed for **COMP 3260 (Computer Network Security)**, focused on implementing a robust, non-traditional security layer using **behavioral biometrics**[cite: 1930]. [cite_start]The system is designed to function automatically without requiring explicit user permission, making it simple to implement on any site that uses Firebase authentication[cite: 1931, 1933].

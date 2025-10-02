@@ -7,7 +7,6 @@ image:
     url: 'https://drive.google.com/drive/folders/1Eu19dSCohK_GnA_gOdrSY5bmNkME45gw?usp=sharing'
     alt: 'Rising Tide logo, showing a sailboat on a wave against an orange sun.'
 tags: ["Class Project", "Software Architecture", "Software Engineering", "System Design", "Web Crawler", "UML Diagrams", "Database Design"]
-video_url: ''
 ---
 
 **Rising Tide** was a multi-semester design and engineering project born from a Hackathon idea. [cite_start]The goal was to design a robust, **three-tiered system** capable of analyzing massive amounts of streaming data from platforms like Twitch and YouTube to identify "rising" games, helping small streamers capitalize on emerging trends[cite: 1141, 1142]. This project demonstrated high-level competency in architectural modeling, resilience planning, and software maintenance strategy.

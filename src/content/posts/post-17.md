@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Deep Salvage concept art or screenshot showing a diver underwater.'
 tags: ["Game Jam", "Unity", "C#", "Survival", "Resource Management", "2D Development", "Rapid Prototyping"]
-video_url: ''
 ---
 
 **Deep Salvage** was a successful survival project developed during the **Global Game Jam 2025**, directly responding to the theme **"Bubbles."** The narrative centers on a diver whose ship has crashed, forcing them to brave the ocean depths to recover broken engine pieces. This 48-hour challenge was an intense exercise in developing core physics and **resource management systems** in Unity.

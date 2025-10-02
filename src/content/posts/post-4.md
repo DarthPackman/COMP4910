@@ -7,7 +7,6 @@ image:
     url: 'https://github.com/DarthPackman/Handshake-Murder/blob/main/manhubnt.png'
     alt: 'Manhunt Gameplay.'
 tags: ["Class Project", "Mobile Development", "Android Studio", "Java", "Firebase", "Google Maps API", "Location-Based Game", "Multiplayer"]
-video_url: '' 
 ---
 
 [cite_start]**Manhunt** is an innovative, location-based mobile game that transforms the classic game of Hunter into an intricate game of cat and mouse using modern technology[cite: 1025, 1096]. [cite_start]Developed for **COMP 3160 (Mobile App Development 2)**, the project's core challenge was building a robust, real-time tracking system capable of supporting fluid multiplayer gameplay across a large geographic area[cite: 42, 1112].

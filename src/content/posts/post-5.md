@@ -6,8 +6,7 @@ description: 'A procedural content generation (PCG) system created for COMP 4980
 image:
     url: 'https://img.itch.zone/aW1nLzIyMDU1OTM3LnBuZw==/original/1bfIl7.png'
     alt: 'Cover art for Roll For Dungeon, showing a fantasy figure before a snowy crypt.'
-tags: ["Class Project", "Procedural Generation", "Game Design", "System Architecture", "Tabletop RPG", "D&D 5e"]
-video_url: '' 
+tags: ["Class Project", "Procedural Generation", "Game Design", "System Architecture", "Tabletop RPG", "D&D 5e"] 
 ---
 
 [cite_start]**Roll For Dungeon (RFD)** was the foundational project for **COMP 4980 (Procedural Content Generation)**, designed to solve the problem of high preparation time in tabletop RPGs[cite: 3017]. [cite_start]By harnessing simple **dice mechanics** in place of a complex algorithm, RFD procedurally generates entire D&D 5th Edition dungeons, ensuring unique and unpredictable adventures with minimal effort from the Dungeon Master[cite: 3018, 3020, 3025].

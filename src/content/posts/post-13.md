@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Cobramode logo.'
 tags: ["Class Project", "C++", "Object-Oriented Design", "State Machine", "Game Development", "Combat Logic"]
-video_url: ''
 ---
 
 [cite_start]**Text Trails** was a team project for **COMP 3140**, focused on applying rigorous **Object-Oriented Design (OOD)** principles to create a reusable and scalable text-based auto-battler game[cite: 3630, 3631]. The goal was to manage complex combat interactions, character customization, and level progression using core OOD concepts implemented in **C++**.

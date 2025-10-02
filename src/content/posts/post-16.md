@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Stylized logo for a game recommendation system.'
 tags: ["Class Project", "Advanced Database Systems", "Data Mining", "Apriori Algorithm", "Machine Learning", "Recommendation Systems"]
-video_url: ''
 ---
 
 [cite_start]The **Content-Based Game Recommendation System** was a major project for **COMP 4610 (Advanced Database Systems)** that focused on applying data mining and analytic techniques to solve the problem of game discovery in a saturated market[cite: 2432, 2445, 3084]. [cite_start]Unlike collaborative filtering, this system generates **personalized recommendations** by analyzing **content features** of games, such as themes, mechanics, and textual descriptions[cite: 2433, 2443, 3083, 3106].

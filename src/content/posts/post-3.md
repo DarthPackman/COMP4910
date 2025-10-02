@@ -7,7 +7,6 @@ image:
     url: 'https://img.itch.zone/aW1nLzgwNjQ0MDEuanBn/original/qSUE8z.jpg'
     alt: 'Handshake Murder concept art or screenshot.'
 tags: ["Class Project", "Mobile Development", "Android Studio", "Java", "Firebase", "Prototyping", "UIUX"]
-video_url: ''
 ---
 
 For **COMP 2160 (Mobile App Development 1)**, I developed **Handshake Murder**, a strategic social deduction game focused on proximity-based interaction. The project provided critical experience in navigating the complexities of mobile development, requiring strategic resourcefulness when faced with API obsolescence.

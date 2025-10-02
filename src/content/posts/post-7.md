@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for Arduino MKR IoT Carrier project.'
 tags: ["Class Project", "IoT", "Arduino", "C++", "Arduino Cloud", "Hardware Integration", "Cooperative Game"]
-video_url: ''
 ---
 
 [cite_start]The **IoT Sensor Game** was a final project for **COMP 4980**, focused on designing an interactive, cooperative gaming system using specialized hardware[cite: 993]. [cite_start]Inspired by **Keep Talking and Nobody Explodes**, the game requires two players—one operating the **Arduino MKR IoT Carrier** and another using an instruction manual—to solve sensor-based mini-games through clear communication[cite: 994, 997].

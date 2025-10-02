@@ -7,7 +7,6 @@ image:
     url: 'https://www.cobramode.com/wp-content/uploads/2021/07/cobramode-logo-website-big-1024x550.png'
     alt: 'Placeholder image for InFaeStation.'
 tags: ["Game Jam", "C#", "Unity", "Action-Adventure", "Combat Design", "Progression System", "Rapid Prototyping"]
-video_url: ''
 ---
 
 **InFaeStation** is a 2.5D action-adventure game developed during a Game Jam, focused on fast-paced combat and environmental storytelling. As a small rootling, the player battles to reclaim their dying forest from malicious fae creatures, requiring hyper-efficient development and a high-fidelity combat loop.
