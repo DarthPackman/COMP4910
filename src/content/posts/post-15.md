@@ -9,14 +9,14 @@ image:
 tags: ["Class Project", "HCI", "UX Design", "Usability Testing", "React", "Firebase", "Social Networking"]
 ---
 
-[cite_start]**Leaderboarded** was a capstone project for **COMP 3450 (Human-Computer Interaction Design)**, aimed at creating a **Letterboxd-style platform for video games**[cite: 2305, 5207]. [cite_start]The primary goal was to solve the lack of meaningful user-driven reviews by combining detailed, aspect-specific ratings (Gameplay, Story, Graphics) with social networking features[cite: 256, 257, 5212].
+**Leaderboarded** was a capstone project for **COMP 3450 (Human-Computer Interaction Design)**, aimed at creating a **Letterboxd-style platform for video games**. The primary goal was to solve the lack of meaningful user-driven reviews by combining detailed, aspect-specific ratings (Gameplay, Story, Graphics) with social networking features.
 
 ## Core HCI, UX, and Technical Implementation
 
-1.  [cite_start]**Iterative UX Design**: The development followed a rigorous design process, focusing on **usability goals** (e.g., efficient to use, easy to learn) and **UX goals** (e.g., rewarding, engaging)[cite: 2404, 2415]. [cite_start]Design decisions, such as refining the follow/unfollow button and improving dropdown behavior, were directly based on early user feedback[cite: 369, 373, 388, 389].
-2.  [cite_start]**Usability Evaluation and Metrics**: Conducted a formal pilot study to assess **three core tasks** (Find Content/Reviewer, Follow a User, Edit/Post a Review)[cite: 272]. [cite_start]Data was collected using both **quantitative metrics** (success rates, task completion time observation) and **qualitative data** (user satisfaction via Google Form)[cite: 285, 287, 290, 293, 299].
-3.  [cite_start]**Key Findings & Iteration**: The evaluation revealed areas for improvement, such as the visual appeal (mean score of 4.15) [cite: 325][cite_start], which was noted to need more engaging color schemes and better layout[cite: 332, 334, 335]. [cite_start]Other issues included confusion in navigation and a low likelihood of recommendation from some users[cite: 329, 337, 342].
-4.  [cite_start]**Technical Stack**: The platform was designed using **React** for the frontend for strong community support and **Firebase/Firestore** for the backend/NoSQL database, enabling secure **Google Authentication** and easy data storage[cite: 2321, 2322, 2383]. [cite_start]Game information was planned to be pulled from the **IGDB API**[cite: 2322, 2386].
+1.  **Iterative UX Design**: The development followed a rigorous design process, focusing on **usability goals** (e.g., efficient to use, easy to learn) and **UX goals** (e.g., rewarding, engaging). Design decisions, such as refining the follow/unfollow button and improving dropdown behavior, were directly based on early user feedback.
+2.  **Usability Evaluation and Metrics**: Conducted a formal pilot study to assess **three core tasks** (Find Content/Reviewer, Follow a User, Edit/Post a Review). Data was collected using both **quantitative metrics** (success rates, task completion time observation) and **qualitative data** (user satisfaction via Google Form).
+3.  **Key Findings & Iteration**: The evaluation revealed areas for improvement, such as the visual appeal (mean score of 4.15) , which was noted to need more engaging color schemes and better layout. Other issues included confusion in navigation and a low likelihood of recommendation from some users.
+4.  **Technical Stack**: The platform was designed using **React** for the frontend for strong community support and **Firebase/Firestore** for the backend/NoSQL database, enabling secure **Google Authentication** and easy data storage. Game information was planned to be pulled from the **IGDB API**.
 
 ## Final Result
 
